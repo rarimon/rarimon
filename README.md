@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I’m a passionate **Full-Stack Developer** with expertise in the **MERN stack (MongoDB, Express.js, React, and Node.js)**. Over the years, I have developed a range of **scalable web applications** and **RESTful APIs** that solve real-world problems and provide excellent user experiences.
 
+I have a strong focus on **JavaScript** technologies, and I enjoy working with both the **frontend** and **backend** of web applications. My goal is to create optimized, scalable, and maintainable applications with a keen attention to detail and performance.
 
-**rarimon/rarimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m constantly learning new technologies and improving my existing skills. Whether it’s building complex applications from scratch or improving an existing project, I’m always ready for new challenges.
 
-Here are some ideas to get you started:
+Feel free to check out some of my projects and let’s connect!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
+### Key Skills:
+- Full-Stack Development (MERN Stack)
+- RESTful APIs & Authentication (JWT/OAuth)
+- Frontend: HTML5, CSS3, JavaScript, React
+- Backend: Node.js, Express.js
+- Databases: MongoDB, Mongoose
+- Version Control: Git, GitHub
+- Testing & Debugging
