@@ -1,39 +1,40 @@
-# **About Me**
+# 👨‍💻 About Me
 
-Hi, I’m a passionate **Full-Stack Developer** with expertise in the **MERN stack (MongoDB, Express.js, React, and Node.js)**. Over the years, I have developed a range of **scalable web applications** and **RESTful APIs** that solve real-world problems and provide excellent user experiences.
+Hi, I’m **Aminul Islam**, a passionate **Full-Stack Web Developer** specializing in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js) along with modern technologies like **Next.js** and **Tailwind CSS**.
 
-I have a strong focus on **JavaScript** technologies, and I enjoy working with both the **frontend** and **backend** of web applications. My goal is to create optimized, scalable, and maintainable applications with a keen attention to detail and performance.
-
-I’m constantly learning new technologies and improving my existing skills. Whether it’s building complex applications from scratch or improving an existing project, I’m always ready for new challenges.
+I build **scalable web applications**, develop robust **RESTful APIs**, and deliver seamless **frontend experiences**. With a strong foundation in **JavaScript**, I love working across the stack to bring ideas to life with clean, efficient, and maintainable code.
 
 ---
 
-### Key Skills:
-- Full-Stack Development (MERN Stack)
-- RESTful APIs & Authentication (JWT/OAuth)
-- Frontend: HTML5, CSS3, JavaScript, React
-- Backend: Node.js, Express.js
-- Databases: MongoDB, Mongoose
-- Version Control: Git, GitHub
-- Testing & Debugging
+## 🛠️ Key Skills
+
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Next.js, Tailwind CSS, Bootstrap  
+- **Backend:** Node.js, Express.js, RESTful APIs, Authentication (JWT, OAuth)  
+- **Database:** MongoDB, Mongoose  
+- **Tools & Practices:** Git, GitHub, Debugging, Testing, Code Optimization
 
 ---
-### Professional Philosophy:
-I believe in the importance of clean, efficient code and strive to maintain best practices in every project. My approach emphasizes collaboration and communication, ensuring that I work effectively with teams to achieve shared goals.
 
-Feel free to check out some of my projects and let’s connect!
+## 💡 Professional Philosophy
 
-### Connect with me!
----
-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aminulwebdeveloper/)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/mdrimon.islam.9659283)[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/21302049/aminul-islam)  
+I believe in **writing clean and scalable code**, following **industry best practices**, and working collaboratively in team environments. I’m a lifelong learner, always seeking to improve and stay current with modern technologies.
+
 ---
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=rarimon)  
+## 📫 Let's Connect!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rarimon)](https://github.com/anuraghazra/github-readme-stats)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/aminulwebdeveloper/)  
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/mdrimon.islam.9659283)  
+[![Stack Overflow](https://img.shields.io/badge/-StackOverflow-F58025?logo=stackoverflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/21302049/aminul-islam)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rarimon&show_icons=true&count_private=true)  
+---
 
+## 🔥 GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rarimon&show_icons=true&count_private=true&theme=default)
 
+![GitHub Streak](https://streak-stats.demolab.com/?user=rarimon&theme=default)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rarimon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
